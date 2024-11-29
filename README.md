@@ -1,7 +1,7 @@
 Requirements:
 Tkinter for GUI
 
-Tesseract for detection
+PyTesseract for detection
 
 Any IDE
 
